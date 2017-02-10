@@ -3,7 +3,15 @@ VSE_Transform_Tools
 
 Addon to manipulate the strip in the Blender VSE 
 
-How to use:
+## Install
+
+  * open the blender user preferences ( Alt + Shift + U )
+  * go to the Add-ons tab
+  * click "Install from file" (in the bottom menu bar)
+  * select the addon file ( VSE_Transform_Tool.py ) and click "Install from file..."
+  * click "Refresh"
+
+## How to use
 T add a tranform effect to the strip(s)
 A select and deselect all strip
 Q for the strip opacity (alpha), work with ctrl and value too.
