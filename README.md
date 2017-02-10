@@ -3,7 +3,7 @@ VSE_Transform_Tools
 
 Addon to manipulate the strip in the Blender VSE 
 
-## Install
+## How to Install
 
   * open the blender user preferences ( Alt + Shift + U )
   * go to the Add-ons tab
